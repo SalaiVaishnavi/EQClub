@@ -1,0 +1,272 @@
+[
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you feel that you have little to be proud of?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you often think of yourself as a failure?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you suffer from feelings of inferiority?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "In general are you pretty sure of yourself?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you often wish you were someone else?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Would you be troubled by feelings of inadequacy if you had to make a speech?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Are there a lot of things about yourself that you would change if you had the choice?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you think that, in general, you are quite popular with people?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you have plenty of confidence in your decisions?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Would you say that you have a favorable opinion of yourself?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you feel ashamed of things you have done?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you feel embarrassed when looking at photos of yourself and feel that they don't do you justice?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Are there some members of your family who make you feel you are not good enough?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you get very upset if someone criticizes you?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do people regard you as useful to have around?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you feel unattractive?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "When people say nice things about you, do you find it difficult to believe they are sincere?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you sometimes withhold your opinions for fear that people will laugh at you?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Are you shy and self-conscious in social situations?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you have a tendency to feel somehow inadequate compared to the people you meet?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you usually feel you can accomplish the things you want to?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Are you satisfied with your appearance?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you avoid the company of strangers because you suspect they will not like you?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you find it difficult to do things in a way that others approve of?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you pretend to be a better person than you really are?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you sometimes feel you can never do anything right?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you have doubts about your sexual capability?",
+   "Yes": [
+      "Yes",
+      "No"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you like yourself a lot?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Do you think your personality is attractive to the opposite sex?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+},
+ {
+   "Do you think you are able to do things as well as most other people?": "Would you say that you have a wide range of abilities?",
+   "Yes": [
+      "Yes",
+      "Yes"
+   ],
+   "Maybe": "Maybe",
+   "No": "No"
+}
+]
